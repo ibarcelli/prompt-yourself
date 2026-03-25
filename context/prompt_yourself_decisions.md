@@ -37,3 +37,8 @@ No se reabren sin aprobación explícita del Human Lead (Ives).
 - **Decisión**: Sin gamificación, sin menús complejos, sin features innecesarios. Abres, recibes, practicas, cierras.
 - **Razón**: Declaración explícita de Ives: "bastante bastante simple".
 - **Fecha**: 2026-03-23
+
+### DEC-008: Sin jerga técnica ni espiritual visible al usuario
+- **Decisión**: La analogía del "sistema operativo" es referencia interna del equipo, no lenguaje del producto. El marco científico usa conceptos que una persona racional entiende sin grado en neurociencia (mente, cerebro, patrones, concentración — no corteza prefrontal, default mode network, coherencia cardio-cerebral). El marco metafísico usa lenguaje espiritual accesible sin sonar a doctrina (conexión, expansión, intuición — no "ley de atracción", "atraigo", "vibración magnética" en niveles bajos). La maquinaria es invisible — el usuario solo siente el efecto.
+- **Razón**: El Ejemplo 5 (Luciana, marco científico) sonaba a paper de neurociencia y el Ejemplo 2 (Tomás, Nivel 1 metafísico) usaba jerga de ley de atracción que genera resistencia en curiosos. El lenguaje debe ser inteligente y accesible, no técnico ni doctrinario.
+- **Fecha**: 2026-03-25

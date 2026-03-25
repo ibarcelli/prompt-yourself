@@ -138,7 +138,7 @@ El usuario tiene práctica regular. Conoce técnicas específicas (Silva, Dispen
 **Emociones**: Éxtasis, libertad total, amor incondicional, conocimiento profundo, poder creador.
 **Puede incluir (según marco)**:
 - Marco metafísico: campo cuántico, frecuencia de manifestación, activación del campo, salto cuántico, coherencia con el campo unificado.
-- Marco científico: neuroplasticidad autoinducida, coherencia cardio-cerebral, ondas theta sostenidas, default mode network, self-referential processing avanzado.
+- Marco científico: entrenamiento mental avanzado, plasticidad cerebral deliberada, estados de concentración profunda, reprogramación de patrones de pensamiento.
 
 ---
 
@@ -154,11 +154,13 @@ El usuario tiene práctica regular. Conoce técnicas específicas (Silva, Dispen
 
 ### Marco Científico
 
-**Vocabulario permitido**: neuroplasticidad, priming cognitivo, ondas alfa, ondas theta, corteza prefrontal, self-referential processing, patrones neuronales, coherencia cardíaca, sistema nervioso, redes neuronales, simulación motora, corteza premotora, default mode network, consolidación neural, estado alfa, estado theta, broaden-and-build, regulación emocional.
+**Vocabulario permitido**: mente, cerebro, patrones mentales, hábitos de pensamiento, concentración, claridad mental, calma interior, enfoque, reprogramación, entrenamiento mental, plasticidad cerebral, estado de flujo, pensamiento deliberado, regulación emocional. Términos que una persona racional y educada usaría naturalmente — como alguien que lee divulgación científica, no papers académicos.
 
-**Tono**: El inconsciente habla desde el conocimiento de cómo funciona el cerebro. Las declaraciones implican que el usuario está ejecutando procesos cognitivos optimizados.
+**Vocabulario prohibido**: corteza prefrontal, default mode network, coherencia cardio-cerebral, self-referential processing, corteza premotora, simulación motora, consolidación neural, broaden-and-build, ondas theta/alfa (como sustantivos técnicos). Toda jerga que requiera formación en neurociencia para entenderse.
 
-**Premisa implícita**: "Mi cerebro es plástico y responde a los patrones que yo instalo deliberadamente."
+**Tono**: El inconsciente habla desde la inteligencia práctica. Las declaraciones implican que el usuario entiende cómo funciona su mente y la usa deliberadamente. Suena como alguien informado y seguro, no como un paper ni como un profesor.
+
+**Premisa implícita**: "Mi mente es entrenable y responde a los patrones que yo instalo deliberadamente."
 
 ### Reglas comunes a ambos marcos
 
@@ -191,8 +193,8 @@ Cada ejemplo usa un perfil ficticio realista. El prompt se presenta como flujo c
 
 **Perfil ficticio**: Tomás, 35 años, empleado de oficina. Quiere sentirse más seguro de sí mismo y mejorar sus relaciones. Empezó a leer sobre manifestación pero no tiene práctica. Dimensión del día: Relacional.
 
-> Yo soy valioso y magnético.
-> Yo atraigo personas que me valoran. Yo me expreso con seguridad y las personas correctas me escuchan. Yo doy y recibo amor con facilidad.
+> Yo soy valioso y presente.
+> Yo me expreso con seguridad y las personas correctas me escuchan. Yo doy y recibo amor con facilidad. Las relaciones que importan crecen a mi alrededor.
 > Yo veo mi tarde: comparto una conversación profunda con alguien que me importa. Yo siento calidez y conexión genuina.
 > Esto es mi presente. Esto ya es.
 
@@ -225,9 +227,9 @@ Cada ejemplo usa un perfil ficticio realista. El prompt se presenta como flujo c
 **Perfil ficticio**: Luciana, 52 años, neurocientífica y profesora universitaria. Practica meditación diaria, conoce la evidencia de neuroplasticidad y estados alfa/theta. Quiere libertad de tiempo y construir un ingreso independiente de su salario. Dimensión del día: Temporal.
 
 > Yo soy arquitecta de mi tiempo y mi realidad.
-> Mi corteza prefrontal opera con precisión: cada decisión sobre mi tiempo es deliberada y alineada. Yo instalo patrones neuronales de libertad temporal — mi default mode network procesa posibilidades de abundancia en cada pausa. Yo diseño mis días desde la coherencia cardio-cerebral, no desde la reactividad.
-> Yo veo mi mañana: trabajo tres horas de flujo profundo en mi proyecto propio mientras mi estado theta consolida las conexiones creadas ayer. Yo siento claridad absoluta sobre qué merece mi atención y qué no.
-> Este es mi estado. Esta es mi arquitectura neural.
+> Mi mente opera con precisión: cada decisión sobre mi tiempo es deliberada y alineada. Yo entreno mi cerebro para pensar en abundancia de tiempo, no en escasez. Yo diseño mis días desde la calma interior, no desde la reactividad.
+> Yo veo mi mañana: trabajo tres horas de concentración profunda en mi proyecto propio. Cada hora invertida construye mi libertad. Yo siento claridad absoluta sobre qué merece mi atención y qué no.
+> Este es mi estado. Esta es mi realidad.
 
 ---
 
