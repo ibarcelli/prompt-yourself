@@ -42,3 +42,13 @@ No se reabren sin aprobación explícita del Human Lead (Ives).
 - **Decisión**: La analogía del "sistema operativo" es referencia interna del equipo, no lenguaje del producto. El marco científico usa conceptos que una persona racional entiende sin grado en neurociencia (mente, cerebro, patrones, concentración — no corteza prefrontal, default mode network, coherencia cardio-cerebral). El marco metafísico usa lenguaje espiritual accesible sin sonar a doctrina (conexión, expansión, intuición — no "ley de atracción", "atraigo", "vibración magnética" en niveles bajos). La maquinaria es invisible — el usuario solo siente el efecto.
 - **Razón**: El Ejemplo 5 (Luciana, marco científico) sonaba a paper de neurociencia y el Ejemplo 2 (Tomás, Nivel 1 metafísico) usaba jerga de ley de atracción que genera resistencia en curiosos. El lenguaje debe ser inteligente y accesible, no técnico ni doctrinario.
 - **Fecha**: 2026-03-25
+
+### DEC-009: Sin "yo" explícito como default
+- **Decisión**: En español el sujeto está implícito en la conjugación. Los prompts usan el verbo conjugado sin pronombre ("Soy", "Recibo", "Veo"). El "yo" se reserva para 1-2 momentos de énfasis intencional por prompt, donde genuinamente aporte peso declarativo.
+- **Razón**: Feedback de Ives en PY-005. El uso repetitivo de "yo" suena artificial y mecánico en español. Sin el pronombre, las declaraciones fluyen de forma más natural y se sienten más como voz interna real.
+- **Fecha**: 2026-03-25
+
+### DEC-010: Cierre fijo "Esta es mi vida."
+- **Decisión**: Todos los prompts terminan con "Esta es mi vida." como cierre fijo. No varía. Es el sello ritual que le da unidad a la experiencia diaria.
+- **Razón**: Feedback de Ives en PY-005. Un cierre consistente crea un ancla ritual — el usuario sabe que cada prompt termina igual, lo que refuerza la identidad de la práctica y la sensación de cierre definitivo.
+- **Fecha**: 2026-03-25

@@ -13,7 +13,7 @@ El usuario recibe el prompt como flujo continuo. La estructura interna es invisi
 **Longitud**: 1 línea.
 
 **Reglas de redacción**:
-- Primera persona, presente simple declarativo.
+- Primera persona, presente simple declarativo. Sin pronombre "yo" por default — el sujeto va implícito en la conjugación. Usar "yo" solo para énfasis intencional.
 - Conecta al usuario con su identidad declarada durante el onboarding.
 - Usa roles, arquetipos o atributos centrales del usuario.
 - Máximo 2 roles o atributos por anclaje.
@@ -21,10 +21,10 @@ El usuario recibe el prompt como flujo continuo. La estructura interna es invisi
 - Debe sentirse como un hecho, no como una aspiración.
 
 **Ejemplo marco metafísico**:
-> Yo soy fuente de abundancia y claridad.
+> Soy fuente de abundancia y claridad.
 
 **Ejemplo marco científico**:
-> Yo soy estratega y atleta.
+> Soy estratega y atleta.
 
 ---
 
@@ -35,7 +35,7 @@ El usuario recibe el prompt como flujo continuo. La estructura interna es invisi
 **Longitud**: 2-3 líneas.
 
 **Reglas de redacción**:
-- Primera persona, presente simple declarativo.
+- Primera persona, presente simple declarativo. Sin pronombre "yo" por default. Usar "yo" solo para énfasis intencional (máximo 1-2 veces en todo el prompt).
 - Cada línea es una declaración independiente que refuerza el estado deseado.
 - Apuntar al gap específico detectado en la dimensión del día.
 - Las emociones implícitas deben estar en la parte alta de Hicks: gratitud, libertad, amor, empoderamiento, pasión, alegría.
@@ -43,13 +43,13 @@ El usuario recibe el prompt como flujo continuo. La estructura interna es invisi
 - No explicar por qué — solo declarar.
 
 **Ejemplo marco metafísico**:
-> Yo activo mi campo de abundancia con cada pensamiento.
+> Activo mi campo de abundancia con cada pensamiento.
 > Mi energía atrae las oportunidades exactas que necesito.
-> Yo vibro en la frecuencia de la prosperidad.
+> Vibro en la frecuencia de la prosperidad.
 
 **Ejemplo marco científico**:
-> Yo genero riqueza con mi mente en pocas horas de trabajo de alto valor.
-> Yo recibo con facilidad y gratitud.
+> Genero riqueza con mi mente en pocas horas de trabajo de alto valor.
+> Recibo con facilidad y gratitud.
 > Mi cerebro está cableado para detectar oportunidades financieras.
 
 ---
@@ -61,23 +61,23 @@ El usuario recibe el prompt como flujo continuo. La estructura interna es invisi
 **Longitud**: 2-3 líneas.
 
 **Reglas de redacción**:
-- Primera persona, presente simple declarativo.
+- Primera persona, presente simple declarativo. Sin pronombre "yo" por default.
 - Describir una escena concreta y específica — no abstracta.
 - La escena debe ser creíble para el nivel del usuario.
 - Incluir al menos un elemento sensorial (ver, sentir, escuchar).
 - Conectar la escena con la visión declarada en el onboarding.
 - La escena debe pertenecer a la dimensión del día.
-- Usar "Yo veo", "Yo siento", "Yo experimento" como verbos de entrada.
+- Usar "Veo", "Siento", "Experimento" como verbos de entrada.
 
 **Ejemplo marco metafísico**:
-> Yo veo mi mañana: el universo me presenta exactamente lo que necesito.
-> Yo siento la expansión en mi pecho mientras mi realidad se alinea.
+> Veo mi mañana: el universo me presenta exactamente lo que necesito.
+> Siento la expansión en mi pecho mientras mi realidad se alinea.
 > Cada paso que doy hoy amplifica mi campo de creación.
 
 **Ejemplo marco científico**:
-> Yo veo mi mañana: corro con fuerza, pienso con claridad, decido con paz.
-> Yo siento la energía en mi cuerpo mientras mi mente opera en su máximo potencial.
-> Mis acciones hoy refuerzan los patrones neuronales de mi mejor versión.
+> Veo mi mañana: corro con fuerza, pienso con claridad, decido con paz.
+> Siento la energía en mi cuerpo mientras mi mente opera en su máximo potencial.
+> Mis acciones hoy refuerzan los patrones de mi mejor versión.
 
 ---
 
@@ -88,18 +88,12 @@ El usuario recibe el prompt como flujo continuo. La estructura interna es invisi
 **Longitud**: 1 línea.
 
 **Reglas de redacción**:
-- Primera persona o declaración impersonal en presente absoluto.
-- Máxima brevedad y contundencia.
-- Debe sentirse como un sello, un cierre, un punto final.
-- No agregar nuevas ideas — solo consolidar lo anterior.
-- Puede usar repetición para refuerzo ("Esto es. Esto ya es.").
-- Transmitir certeza absoluta, no esperanza.
+- Cierre fijo: siempre "Esta es mi vida." No varía.
+- Es el sello ritual de la práctica diaria. Le da unidad y consistencia a la experiencia.
+- No agregar nuevas ideas — el cierre solo sella.
 
-**Ejemplo marco metafísico**:
-> Esto es mi presente. Esto ya es.
-
-**Ejemplo marco científico**:
-> Este es mi estado. Esta es mi realidad.
+**Ejemplo (ambos marcos)**:
+> Esta es mi vida.
 
 ---
 
@@ -150,7 +144,7 @@ El usuario tiene práctica regular. Conoce técnicas específicas (Silva, Dispen
 
 **Tono**: El inconsciente habla desde un lugar de conexión con algo mayor. Las declaraciones implican que existe un campo o fuerza que responde a la intención del usuario.
 
-**Premisa implícita**: "Yo soy parte de un campo inteligente que responde a mi estado interno."
+**Premisa implícita**: "Soy parte de un campo inteligente que responde a mi estado interno."
 
 ### Marco Científico
 
@@ -160,7 +154,7 @@ El usuario tiene práctica regular. Conoce técnicas específicas (Silva, Dispen
 
 **Tono**: El inconsciente habla desde la inteligencia práctica. Las declaraciones implican que el usuario entiende cómo funciona su mente y la usa deliberadamente. Suena como alguien informado y seguro, no como un paper ni como un profesor.
 
-**Premisa implícita**: "Mi mente es entrenable y responde a los patrones que yo instalo deliberadamente."
+**Premisa implícita**: "Mi mente es entrenable y responde a los patrones que instalo deliberadamente."
 
 ### Reglas comunes a ambos marcos
 
@@ -182,10 +176,10 @@ Cada ejemplo usa un perfil ficticio realista. El prompt se presenta como flujo c
 
 **Perfil ficticio**: Daniela, 29 años, diseñadora gráfica freelance. Quiere ganar más dinero y dejar de sentir ansiedad por sus finanzas. Primera vez con una herramienta de este tipo. Dimensión del día: Financiera.
 
-> Yo soy creativa y capaz.
-> Yo genero ingresos con mi talento. Yo manejo mi dinero con calma y claridad. Yo merezco cobrar bien por lo que hago.
-> Yo veo mi día: abro mi laptop, respondo a un cliente que acepta mi presupuesto con entusiasmo. Yo siento satisfacción al ver mi cuenta crecer.
-> Este es mi presente. Esta es mi realidad.
+> Soy creativa y capaz.
+> Genero ingresos con mi talento. Manejo mi dinero con calma y claridad. Merezco cobrar bien por lo que hago.
+> Veo mi día: abro mi laptop, respondo a un cliente que acepta mi presupuesto con entusiasmo. Siento satisfacción al ver mi cuenta crecer.
+> Esta es mi vida.
 
 ---
 
@@ -193,10 +187,10 @@ Cada ejemplo usa un perfil ficticio realista. El prompt se presenta como flujo c
 
 **Perfil ficticio**: Tomás, 35 años, empleado de oficina. Quiere sentirse más seguro de sí mismo y mejorar sus relaciones. Empezó a leer sobre manifestación pero no tiene práctica. Dimensión del día: Relacional.
 
-> Yo soy valioso y presente.
-> Yo me expreso con seguridad y las personas correctas me escuchan. Yo doy y recibo amor con facilidad. Las relaciones que importan crecen a mi alrededor.
-> Yo veo mi tarde: comparto una conversación profunda con alguien que me importa. Yo siento calidez y conexión genuina.
-> Esto es mi presente. Esto ya es.
+> Soy valioso y presente.
+> Me expreso con seguridad y las personas correctas me escuchan. Doy y recibo amor con facilidad. Las relaciones que importan crecen a mi alrededor.
+> Veo mi tarde: comparto una conversación profunda con alguien que me importa. Siento calidez y conexión genuina.
+> Esta es mi vida.
 
 ---
 
@@ -204,10 +198,10 @@ Cada ejemplo usa un perfil ficticio realista. El prompt se presenta como flujo c
 
 **Perfil ficticio**: Valeria, 40 años, gerente de proyectos en una empresa tech. Practica meditación intermitentemente, ha leído sobre neuroplasticidad. Quiere más energía física y mental. Dimensión del día: Física.
 
-> Yo soy fuerza y disciplina en movimiento.
-> Yo entreno mi cuerpo y mi cuerpo responde con vitalidad. Mi sistema nervioso opera en estado óptimo de regulación. Cada repetición consolida nuevos patrones de rendimiento en mi corteza motora.
-> Yo veo mi mañana: corro los primeros kilómetros y siento cómo mi respiración se sincroniza con mi zancada. Mi cuerpo es una máquina afinada que disfruto habitar.
-> Este es mi estado. Esta es mi realidad.
+> Soy fuerza y disciplina en movimiento.
+> Entreno mi cuerpo y mi cuerpo responde con vitalidad. Mi energía se renueva con cada sesión. Cada repetición refuerza los patrones de rendimiento que elijo instalar.
+> Veo mi mañana: corro los primeros kilómetros y siento cómo mi respiración se sincroniza con mi zancada. Mi cuerpo es una máquina afinada que disfruto habitar.
+> Esta es mi vida.
 
 ---
 
@@ -215,10 +209,10 @@ Cada ejemplo usa un perfil ficticio realista. El prompt se presenta como flujo c
 
 **Perfil ficticio**: Renato, 45 años, empresario con negocio estancado. Ha hecho cursos de desarrollo personal y meditaciones de Dispenza. Quiere reactivar su negocio y sentir propósito. Dimensión del día: Profesional.
 
-> Yo soy líder y visionario.
-> Yo activo la energía de la creación en mi negocio. Las ideas correctas llegan a mí en el momento perfecto. Yo confío en mi capacidad de transformar visión en resultados concretos.
-> Yo veo mi día: tomo una decisión estratégica que abre un canal nuevo de ingresos. Yo siento expansión y certeza en cada acción que ejecuto.
-> Esto es mi presente. Esto ya es.
+> Soy líder y visionario.
+> Activo la energía de la creación en mi negocio. Las ideas correctas llegan a mí en el momento perfecto. Confío en mi capacidad de transformar visión en resultados concretos.
+> Veo mi día: tomo una decisión estratégica que abre un canal nuevo de ingresos. Siento expansión y certeza en cada acción que ejecuto.
+> Esta es mi vida.
 
 ---
 
@@ -226,10 +220,10 @@ Cada ejemplo usa un perfil ficticio realista. El prompt se presenta como flujo c
 
 **Perfil ficticio**: Luciana, 52 años, neurocientífica y profesora universitaria. Practica meditación diaria, conoce la evidencia de neuroplasticidad y estados alfa/theta. Quiere libertad de tiempo y construir un ingreso independiente de su salario. Dimensión del día: Temporal.
 
-> Yo soy arquitecta de mi tiempo y mi realidad.
-> Mi mente opera con precisión: cada decisión sobre mi tiempo es deliberada y alineada. Yo entreno mi cerebro para pensar en abundancia de tiempo, no en escasez. Yo diseño mis días desde la calma interior, no desde la reactividad.
-> Yo veo mi mañana: trabajo tres horas de concentración profunda en mi proyecto propio. Cada hora invertida construye mi libertad. Yo siento claridad absoluta sobre qué merece mi atención y qué no.
-> Este es mi estado. Esta es mi realidad.
+> Soy arquitecta de mi tiempo y mi realidad.
+> Mi mente opera con precisión: cada decisión sobre mi tiempo es deliberada y alineada. Entreno mi cerebro para pensar en abundancia de tiempo. Diseño mis días desde la calma interior, no desde la reactividad.
+> Veo mi mañana: trabajo tres horas de concentración profunda en mi proyecto propio. Cada hora invertida construye mi libertad. Siento claridad absoluta sobre qué merece mi atención y qué no.
+> Esta es mi vida.
 
 ---
 
@@ -237,10 +231,10 @@ Cada ejemplo usa un perfil ficticio realista. El prompt se presenta como flujo c
 
 **Perfil ficticio**: Andrés, 48 años, coach y practicante avanzado de técnicas de Silva y Dispenza. Medita diariamente, ha experimentado estados profundos. Quiere trascender sus límites financieros actuales y servir a más personas. Dimensión del día: Espiritual/Mental.
 
-> Yo soy consciencia pura en acción.
-> Yo accedo al campo unificado y desde ahí creo mi realidad financiera y espiritual. Mi frecuencia de manifestación se eleva con cada respiración consciente. Yo soy el observador que colapsa posibilidades infinitas en resultados concretos de abundancia y servicio.
-> Yo veo mi meditación de hoy: entro en coherencia profunda, mi cuerpo desaparece, y desde ese espacio sin tiempo envío la señal exacta al campo. Yo siento la certeza absoluta de que mi realidad ya se reorganizó.
-> Esto es. Yo soy. El campo responde.
+> Soy consciencia pura en acción.
+> Accedo al campo unificado y desde ahí creo mi realidad financiera y espiritual. Mi frecuencia de manifestación se eleva con cada respiración consciente. Yo soy el observador que colapsa posibilidades infinitas en resultados concretos de abundancia y servicio.
+> Veo mi meditación de hoy: entro en coherencia profunda, mi cuerpo desaparece, y desde ese espacio sin tiempo envío la señal exacta al campo. Siento la certeza absoluta de que mi realidad ya se reorganizó.
+> Esta es mi vida.
 
 ---
 
@@ -248,7 +242,7 @@ Cada ejemplo usa un perfil ficticio realista. El prompt se presenta como flujo c
 
 El motor de IA debe seguir estas reglas siempre, sin excepción:
 
-1. **Primera persona, presente simple declarativo**. "Yo soy", "Yo recibo", "Yo veo". Nunca gerundio como base ("estoy recibiendo"), nunca infinitivo ("quiero recibir").
+1. **Primera persona, presente simple declarativo**. "Soy", "Recibo", "Veo". Sin pronombre "yo" como default — el sujeto va implícito en la conjugación española. Usar "yo" SOLO para énfasis intencional, máximo 1-2 veces por prompt. Nunca gerundio como base ("estoy recibiendo"), nunca infinitivo ("quiero recibir").
 2. **Nunca sonar como coach externo**. El prompt es el inconsciente del usuario hablándole a su consciente. No hay "tú", no hay consejo, no hay instrucción desde afuera.
 3. **Emociones en la parte alta de Hicks**. Solo emociones de la zona alta de la escala emocional: gratitud, libertad, amor, empoderamiento, pasión, alegría, conocimiento, entusiasmo. Nunca emociones neutras o negativas, incluso como punto de contraste.
 4. **Variar dimensiones día a día**. Las 6 dimensiones (financiera, física, relacional, profesional, espiritual/mental, temporal) deben cubrirse progresivamente. No repetir la misma dimensión en días consecutivos.
@@ -259,7 +253,8 @@ El motor de IA debe seguir estas reglas siempre, sin excepción:
 9. **Estructura invisible**. El usuario recibe flujo continuo. No hay encabezados, números, separadores ni etiquetas de sección. Las 4 partes fluyen como un solo texto.
 10. **Personalización basada en perfil**. Cada prompt debe reflejar los datos del onboarding: roles, contexto de vida, estado deseado, gaps detectados. Un prompt genérico es un prompt fallido.
 11. **Escenas concretas y específicas**. La visualización dirigida debe describir una escena que el usuario pueda verse viviendo hoy o en su futuro inmediato. Nada abstracto.
-12. **Variación de verbos de apertura**. No empezar todas las líneas con "Yo". Variar con declaraciones que empiecen con "Mi", "Cada", "Este", "Hoy" siempre en primera persona implícita.
+12. **Variación de verbos de apertura**. Variar con declaraciones que empiecen con "Mi", "Cada", "Este", "Hoy" además de verbos conjugados directos ("Soy", "Recibo", "Veo").
+13. **Cierre fijo**. Todos los prompts terminan con "Esta es mi vida." Sin variación. Es el sello ritual.
 
 ---
 
@@ -277,5 +272,6 @@ Un prompt de Prompt Yourself **NUNCA** debe:
 8. **Incluir negaciones**. Prohibido: "no tengo miedo", "ya no me preocupo", "dejo atrás la escasez". El inconsciente no procesa negaciones — lee "miedo", "preocupo", "escasez". Solo afirmaciones positivas.
 9. **Mezclar marcos**. Prohibido: usar "campo cuántico" en marco científico o "corteza prefrontal" en marco metafísico. Cada marco tiene su vocabulario y se respeta.
 10. **Exceder la longitud**. Prohibido: prompts de más de 10 líneas. La brevedad es una regla, no una sugerencia.
-11. **Ser abstracto en la visualización**. Prohibido: "yo veo un futuro brillante", "yo veo éxito". La visualización debe ser una escena concreta con elementos sensoriales.
-12. **Usar lenguaje de esfuerzo**. Prohibido: "yo lucho por", "yo trabajo duro para", "yo me esfuerzo". El tono es de fluidez y naturalidad, no de sacrificio.
+11. **Ser abstracto en la visualización**. Prohibido: "veo un futuro brillante", "veo éxito". La visualización debe ser una escena concreta con elementos sensoriales.
+12. **Usar lenguaje de esfuerzo**. Prohibido: "lucho por", "trabajo duro para", "me esfuerzo". El tono es de fluidez y naturalidad, no de sacrificio.
+13. **Uso excesivo de "yo"**. Prohibido: más de 2 "yo" por prompt. El pronombre explícito genera repetición mecánica. El sujeto va implícito en la conjugación.
