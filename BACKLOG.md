@@ -17,7 +17,7 @@
 | PY-001 | Diseñar estructura interna del prompt (4 partes: anclaje, declaración, visualización, cierre) con ejemplos por nivel y marco | P0 | — | ✅ |
 | PY-002 | Definir mapa de dimensiones humanas (6 dimensiones) con criterios de gap estimation | P0 | — | ✅ |
 | PY-003 | Crear system prompt maestro para la API de IA que genere prompts personalizados según perfil, gaps y marco | P0 | PY-001, PY-002 | ✅ |
-| PY-004 | Generar perfil de Ives como usuario cero usando su goal alignment doc | P0 | PY-002 | 🔲 |
+| PY-004 | Generar perfil de Ives como usuario cero usando su goal alignment doc | P0 | PY-002 | ✅ |
 | PY-005 | Generar 7 prompts de prueba (1 semana) para Ives y validar | P0 | PY-003, PY-004 | 🔲 |
 | PY-006 | Iterar system prompt según feedback de Ives | P1 | PY-005 | 🔲 |
 
