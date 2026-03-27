@@ -52,7 +52,7 @@
 | PY-016 | Seleccionar builder (Lovable/Bolt/Replit) y crear proyecto base | P0 | — | 🔲 |
 | PY-017 | Implementar pantalla de onboarding con las preguntas diseñadas | P0 | PY-015, PY-016 | 🔲 |
 | PY-018 | Implementar pantalla diaria del prompt (diseño oscuro, dorado, minimalista) | P0 | PY-016 | 🔲 |
-| PY-019 | Conectar motor de prompts (API de IA) al flujo diario | P0 | PY-003, PY-018 | 🔲 |
+| PY-019 | Conectar motor de prompts (API de IA) al flujo diario | P0 | PY-003, PY-018 | ✅ |
 | PY-020 | Implementar autenticación básica (email + password o magic link) | P1 | PY-016 | 🔲 |
 | PY-021 | Implementar pantalla de perfil básico (ver/editar contexto) | P2 | PY-016 | 🔲 |
 | PY-022 | Configurar PWA (manifest, service worker, instalable) | P1 | PY-016 | 🔲 |

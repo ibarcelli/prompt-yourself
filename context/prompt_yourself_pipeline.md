@@ -11,14 +11,14 @@ Producto digital (PWA) — app de priming y visualización personalizada con mot
 - [x] Brain generado
 - [x] Backlog creado
 
-### Fase 1: POC — Prompt Engine 🔲
+### Fase 1: POC — Prompt Engine ✅
 **Objetivo**: Generar un prompt diario personalizado para Ives basado en su goal alignment y perfil.
 **Definition of Done**: Ives recibe un prompt personalizado que cumple con la estructura de 4 partes y se siente como su propio inconsciente hablándole.
-- [ ] Diseñar estructura interna del prompt (anclaje, declaración, visualización, cierre)
-- [ ] Crear system prompt para el motor de IA que genere prompts personalizados
-- [ ] Definir mapa de dimensiones humanas con gaps
-- [ ] Probar con perfil de Ives — generar 7 prompts (1 semana)
-- [ ] Ives valida: ¿esto se siente como mi inconsciente o como un coach?
+- [x] Diseñar estructura interna del prompt (anclaje, declaración, visualización, cierre)
+- [x] Crear system prompt para el motor de IA que genere prompts personalizados
+- [x] Definir mapa de dimensiones humanas con gaps
+- [x] Probar con perfil de Ives — generar 7 prompts (1 semana)
+- [x] Ives valida: ¿esto se siente como mi inconsciente o como un coach?
 
 ### Fase 2: POC — Onboarding 🔲
 **Objetivo**: Crear el flujo de perfilamiento que captura la esfera del usuario.
