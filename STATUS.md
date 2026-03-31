@@ -4,23 +4,25 @@
 **Fase**: 3 — MVP Interfaz
 **Historia activa**: Pendiente de instrucciones de Kira
 **Bloqueantes**: Ninguno
-**Última actualización**: 2026-03-26
+**Última actualización**: 2026-03-31
 
 ## Resumen
 - **Fase 1 — POC Prompt Engine: COMPLETADA** (PY-001 a PY-006 ✅)
-- **PY-019 completada**: Edge function `generate-prompt` creada en `supabase/functions/generate-prompt/index.ts`. Incluye:
-  - Lectura de perfil de usuario y últimos 6 prompts de Supabase
-  - Gap estimation por keywords en estado_transformado
-  - Algoritmo de rotación de dimensiones (no repetir consecutiva, priorizar gaps, día 7 integrador)
+- **PY-019 completada**: Edge function `generate-prompt` actualizada en repo `prompty1` (ibarcelli/prompty1) con:
+  - Gap estimation por keyword matching en estado_transformado (escala 1-5)
+  - Algoritmo de rotación inteligente (no repite consecutiva, prioriza gaps, día 7 integrador)
   - Generación de gap_descripcion en lenguaje natural
-  - Llamada a API de Anthropic (Claude Haiku 4.5) con system prompt + user message
-  - Guardado del prompt generado en tabla `prompts`
-  - CORS y manejo de errores
-- Requiere despliegue: `supabase functions deploy generate-prompt` + configurar `ANTHROPIC_API_KEY` como secret
+  - Campo "Gap en esta dimensión" agregado al user message
+  - Compatible con schema real de Supabase (tabla `profiles`, `edad` string)
+- **Nota**: El código fuente del frontend vive en `ibarcelli/prompty1`. El repo `prompt-yourself` contiene el brain/contexto del proyecto. La edge function en `prompt-yourself/supabase/` es un borrador previo — la versión canónica está en `prompty1`.
+
+## Repos
+- **Brain/contexto**: `ibarcelli/prompt-yourself` (este repo)
+- **Frontend + Edge Functions**: `ibarcelli/prompty1` (Lovable)
 
 ## Decisiones Vigentes
 - DEC-001 a DEC-010 documentadas en decisions.md
 
 ## Riesgos Activos
-- **R1**: La edge function necesita ser probada con un usuario real en Supabase. Validar que las tablas `users` y `prompts` tienen el schema esperado.
-- **R2**: Builder no-code (Lovable) necesita conectarse a esta edge function. El frontend debe llamar a la función con el auth token del usuario.
+- **R1**: La edge function necesita ser re-desplegada en Supabase para que los cambios tomen efecto: `supabase functions deploy generate-prompt`
+- **R2**: Validar con usuario real (Ives) que los prompts generados en vivo cumplen con la estructura y tono esperados
